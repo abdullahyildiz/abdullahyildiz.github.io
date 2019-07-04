@@ -26,4 +26,6 @@ location: "Istanbul, Turkiye"
 
 [My resume in an Operating system](http://www.mathieupassenaud.fr/resume/)
 
+* [Writing a Self-Mutating x86_64 C Program](https://shanetully.com/2013/12/writing-a-self-mutating-x86_64-c-program/)
+
 [Writing C software without the standard library](http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt)

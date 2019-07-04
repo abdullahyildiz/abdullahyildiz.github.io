@@ -48,6 +48,8 @@ location: "Istanbul, Turkiye"
 
 * [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
 
+* [Creating Embedded Microcontrollers (Programmable State Machines)](http://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)
+
 * [10 FPGA Design Techniques You Should Know](https://www.eetimes.com/document.asp?doc_id=1330128)
 
 * [How to Implement State Machines in Your FPGA](https://www.rs-online.com/designspark/how-to-implement-state-machines-in-your-fpga)

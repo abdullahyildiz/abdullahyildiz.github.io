@@ -12,6 +12,8 @@ location: "Istanbul, Turkiye"
 
 * [Microprocessor Evaluation (1971-1996)](http://abdullahyildiz.github.io/files/Microprocessor_Evolution_Poster.jpg)
 
+* [Proprietary Versus Open Instruction Sets](http://abdullahyildiz.github.io/files/07542457.pdf)
+
 * [THE AMAZING $1 MICROCONTROLLER](https://jaycarlson.net/microcontrollers/)
 
 * [An Open Letter to Intel by Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/intel/)

@@ -52,8 +52,6 @@ location: "Istanbul, Turkiye"
 
 * [How Do I Reset My FPGA?](http://abdullahyildiz.github.io/files/xcell_article_2.pdf)
 
-* [Using Xilinx Tools in Command-Line Mode](http://abdullahyildiz.github.io/files/xcell_article_3.pdf)
-
 * [How to Build a Self-Checking Testbench](http://abdullahyildiz.github.io/files/xcell_article_4.pdf)
 
 * [Arbiters: Design Ideas and Coding Styles](http://abdullahyildiz.github.io/files/Arbiters-Design_Ideas_and_Coding_Styles.pdf)

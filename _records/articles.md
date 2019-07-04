@@ -32,6 +32,8 @@ location: "Istanbul, Turkiye"
 
 * [Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology](http://abdullahyildiz.github.io/files/07086413.pdf)
 
+* [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
+
 * [10 FPGA Design Techniques You Should Know](https://www.eetimes.com/document.asp?doc_id=1330128)
 
 * [How to Implement State Machines in Your FPGA](https://www.rs-online.com/designspark/how-to-implement-state-machines-in-your-fpga)

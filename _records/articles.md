@@ -97,11 +97,3 @@ location: "Istanbul, Turkiye"
 * [Linked List Problems](http://abdullahyildiz.github.io/files/LinkedListProblems.pdf)
 
 * [Step-by-Step into Argp](http://abdullahyildiz.github.io/files/step-by-step-into-argp.pdf)
-
-<hr>
-
-<span style="color:#1a75ff"> *Articles on Security* </span>
-
-* [4 Ways a Password Could be Hacked Using Common Linux Tools](https://www.linux.com/blog/4-ways-password-could-be-hacked-using-common-linux-tools)
-
-* [Cracking a Simple Passworded File: A Beginner’s Guide to Security](https://www.linux.com/blog/cracking-simple-passworded-file-beginners-guide-security)

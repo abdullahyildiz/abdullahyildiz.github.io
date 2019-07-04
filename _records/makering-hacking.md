@@ -8,6 +8,8 @@ date: 2018-12-23
 location: "Istanbul, Turkiye"
 ---
 
+<span style="color:#1a75ff"> *Hardware* </span>
+
 [Making things add up](http://abdullahyildiz.github.io/files/Making_things_add_up.pdf)
 
 [Going straight with PID](http://abdullahyildiz.github.io/files/Going_straight_with_PID.pdf)
@@ -21,6 +23,10 @@ location: "Istanbul, Turkiye"
 [Op-amps](http://abdullahyildiz.github.io/files/opamps.pdf)
 
 [The 555 timer](http://abdullahyildiz.github.io/files/555_timer.pdf)
+
+<hr>
+
+<span style="color:#1a75ff"> *Software* </span>
 
 [Turning your Raspberry PI Zero into a USB Gadget](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview)
 

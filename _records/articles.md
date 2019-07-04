@@ -26,6 +26,18 @@ location: "Istanbul, Turkiye"
 
 <hr>
 
+<span style="color:#1a75ff"> *Articles on Digital Design* </span>
+
+* [The Ten Commandments of Excellent Design from Peter Chambers](http://abdullahyildiz.github.io/files/peter_chambers_10_commandments.pdf)
+
+* [Excellent Tutorial on Latches and Flip-Flops from Enoch Hwang, Ph.D.](http://abdullahyildiz.github.io/files/flipflops.pdf)
+
+* [Understanding the Basics of Setup and Hold Time](http://abdullahyildiz.github.io/files/Understanding-the-basics-of-setup-and-hold-time.pdf)
+
+* [ASAP and ALAP scheduling](http://abdullahyildiz.github.io/files/asap_alap.pdf)
+
+<hr>
+
 <span style="color:#1a75ff"> *Articles on Programmable Logic* </span>
 
 * [Beginner’s Guide to Understanding FPGA Development](https://www.eeweb.com/profile/gina-smith/articles/beginners-guide-to-understanding-fpga-development)
@@ -59,18 +71,6 @@ location: "Istanbul, Turkiye"
 * [How to Build a Self-Checking Testbench](http://abdullahyildiz.github.io/files/xcell_article_4.pdf)
 
 * [Arbiters: Design Ideas and Coding Styles](http://abdullahyildiz.github.io/files/Arbiters-Design_Ideas_and_Coding_Styles.pdf)
-
-<hr>
-
-<span style="color:#1a75ff"> *Articles on Digital Design* </span>
-
-* [The Ten Commandments of Excellent Design from Peter Chambers](http://abdullahyildiz.github.io/files/peter_chambers_10_commandments.pdf)
-
-* [Excellent Tutorial on Latches and Flip-Flops from Enoch Hwang, Ph.D.](http://abdullahyildiz.github.io/files/flipflops.pdf)
-
-* [Understanding the Basics of Setup and Hold Time](http://abdullahyildiz.github.io/files/Understanding-the-basics-of-setup-and-hold-time.pdf)
-
-* [ASAP and ALAP scheduling](http://abdullahyildiz.github.io/files/asap_alap.pdf)
 
 <hr>
 

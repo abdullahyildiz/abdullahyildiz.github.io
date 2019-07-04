@@ -76,8 +76,6 @@ location: "Istanbul, Turkiye"
 
 * [OSDev.org](http://wiki.osdev.org)
 
-* [A tutorial on writing kernels](http://www.osdever.net/bkerndev/index.php)
-
 * [Behind the process](http://www.bottomupcs.com/chapter07.xhtml)
 
 * [What every systems programmer should know about concurrency by Matt Kline](http://abdullahyildiz.github.io/files/concurrency-primer.pdf)

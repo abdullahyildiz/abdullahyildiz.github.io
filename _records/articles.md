@@ -14,6 +14,8 @@ location: "Istanbul, Turkiye"
 
 * [Proprietary Versus Open Instruction Sets](http://abdullahyildiz.github.io/files/07542457.pdf)
 
+* [ISA Wars: Understanding the Relevance of ISA being RISC or CISC to Performance, Power, and Energy on Modern Architectures](http://abdullahyildiz.github.io/files/isa_wars.pdf)
+
 * [THE AMAZING $1 MICROCONTROLLER](https://jaycarlson.net/microcontrollers/)
 
 * [An Open Letter to Intel by Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/intel/)

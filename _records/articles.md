@@ -48,6 +48,8 @@ location: "Istanbul, Turkiye"
 
 * [Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology](http://abdullahyildiz.github.io/files/07086413.pdf)
 
+* [FPGAs vs ASICs](http://zipcpu.com/blog/2017/10/13/fpga-v-asic.html)
+
 * [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
 
 * [Creating Embedded Microcontrollers (Programmable State Machines)](http://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)

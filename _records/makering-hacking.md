@@ -39,3 +39,5 @@ location: "Istanbul, Turkiye"
 [4 Ways a Password Could be Hacked Using Common Linux Tools](https://www.linux.com/blog/4-ways-password-could-be-hacked-using-common-linux-tools)
 
 [Cracking a Simple Passworded File: A Beginner’s Guide to Security](https://www.linux.com/blog/cracking-simple-passworded-file-beginners-guide-security)
+
+[A Guide to Debouncing](http://abdullahyildiz.github.io/files/debouncing.pdf)

@@ -84,6 +84,10 @@ location: "Istanbul, Turkiye"
 
 * [Arbiters: Design Ideas and Coding Styles](http://abdullahyildiz.github.io/files/Arbiters-Design_Ideas_and_Coding_Styles.pdf)
 
+* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
+
+* [Taking a New Look at Verilator](http://zipcpu.com/blog/2017/06/21/looking-at-verilator.html)
+
 <hr>
 
 <span style="color:#1a75ff"> *Articles on Embedded Systems, Operating Systems, and Programming* </span>

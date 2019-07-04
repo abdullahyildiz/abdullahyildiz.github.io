@@ -54,6 +54,8 @@ location: "Istanbul, Turkiye"
 
 * [10 FPGA Design Techniques You Should Know](https://www.eetimes.com/document.asp?doc_id=1330128)
 
+* [10 Techniques for Creating Reliable FPGA Designs](https://www.eetimes.com/document.asp?doc_id=1330399#)
+
 * [How to Implement State Machines in Your FPGA](https://www.rs-online.com/designspark/how-to-implement-state-machines-in-your-fpga)
 
 * [HDL Coding styles](https://www.edn.com/electronics-blogs/ic-designer-s-corner/4441866/VHDL-Coding-styles)

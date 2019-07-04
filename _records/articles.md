@@ -26,6 +26,8 @@ location: "Istanbul, Turkiye"
 
 * [Infographics: Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 
+* [RISC instruction sets I have known and disliked](https://www.jwhitham.org/2016/02/risc-instruction-sets-i-have-known-and.html)
+
 * [Under the hood of Formal Verification](https://tomverbeure.github.io/rtl/2019/01/04/Under-the-Hood-of-Formal-Verification.html)
 
 <hr>

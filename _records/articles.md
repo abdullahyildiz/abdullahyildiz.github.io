@@ -50,6 +50,8 @@ location: "Istanbul, Turkiye"
 
 * [Controlling Timing within an FPGA](http://zipcpu.com/blog/2017/06/02/generating-timing.html)
 
+* [Breaking all the rules to create an arbitrary clock signal](http://zipcpu.com/blog/2019/06/28/genclk.html)
+
 * [Using the Clock Period Constraint to Your Advantage](http://abdullahyildiz.github.io/files/xcell_article_1.pdf)
 
 * [How Do I Reset My FPGA?](http://abdullahyildiz.github.io/files/xcell_article_2.pdf)

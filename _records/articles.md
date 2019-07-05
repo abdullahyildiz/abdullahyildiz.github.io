@@ -72,6 +72,8 @@ location: "Istanbul, Turkiye"
 
 * [FPGA Resources at GateForge Consulting Ltd.](http://fpgacpu.ca/fpga/)
 
+* [Designing A Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html)
+
 * [Controlling Timing within an FPGA](http://zipcpu.com/blog/2017/06/02/generating-timing.html)
 
 * [Breaking all the rules to create an arbitrary clock signal](http://zipcpu.com/blog/2019/06/28/genclk.html)

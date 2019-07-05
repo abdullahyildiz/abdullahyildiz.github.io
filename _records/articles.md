@@ -28,8 +28,6 @@ location: "Istanbul, Turkiye"
 
 * [RISC instruction sets I have known and disliked](https://www.jwhitham.org/2016/02/risc-instruction-sets-i-have-known-and.html)
 
-* [Under the hood of Formal Verification](https://tomverbeure.github.io/rtl/2019/01/04/Under-the-Hood-of-Formal-Verification.html)
-
 <hr>
 
 <span style="color:#1a75ff"> *Articles on Digital Design* </span>
@@ -48,15 +46,17 @@ location: "Istanbul, Turkiye"
 
 * [Taking a New Look at Verilator](http://zipcpu.com/blog/2017/06/21/looking-at-verilator.html)
 
+* [Under the hood of Formal Verification](https://tomverbeure.github.io/rtl/2019/01/04/Under-the-Hood-of-Formal-Verification.html)
+
 * [HDL Coding styles](https://www.edn.com/electronics-blogs/ic-designer-s-corner/4441866/VHDL-Coding-styles)
 
 * [Verilog Coding Standard](http://fpgacpu.ca/fpga/verilog.html)
 
+* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
+
 * [Fixed Point Numbers in Verilog](https://timetoexplore.net/blog/fixed-point-numbers-in-verilog)
 
 * [Designing A Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html)
-
-* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
 
 <hr>
 

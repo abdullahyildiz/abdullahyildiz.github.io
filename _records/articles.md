@@ -42,6 +42,22 @@ location: "Istanbul, Turkiye"
 
 * [ASAP and ALAP scheduling](http://abdullahyildiz.github.io/files/asap_alap.pdf)
 
+* [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
+
+* [Arbiters: Design Ideas and Coding Styles](http://abdullahyildiz.github.io/files/Arbiters-Design_Ideas_and_Coding_Styles.pdf)
+
+* [Taking a New Look at Verilator](http://zipcpu.com/blog/2017/06/21/looking-at-verilator.html)
+
+* [HDL Coding styles](https://www.edn.com/electronics-blogs/ic-designer-s-corner/4441866/VHDL-Coding-styles)
+
+* [Verilog Coding Standard](http://fpgacpu.ca/fpga/verilog.html)
+
+* [Fixed Point Numbers in Verilog](https://timetoexplore.net/blog/fixed-point-numbers-in-verilog)
+
+* [Designing A Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html)
+
+* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
+
 <hr>
 
 <span style="color:#1a75ff"> *Articles on Programmable Logic* </span>
@@ -52,8 +68,6 @@ location: "Istanbul, Turkiye"
 
 * [FPGAs vs ASICs](http://zipcpu.com/blog/2017/10/13/fpga-v-asic.html)
 
-* [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
-
 * [Creating Embedded Microcontrollers (Programmable State Machines)](http://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)
 
 * [10 FPGA Design Techniques You Should Know](https://www.eetimes.com/document.asp?doc_id=1330128)
@@ -62,17 +76,9 @@ location: "Istanbul, Turkiye"
 
 * [How to Implement State Machines in Your FPGA](https://www.rs-online.com/designspark/how-to-implement-state-machines-in-your-fpga)
 
-* [HDL Coding styles](https://www.edn.com/electronics-blogs/ic-designer-s-corner/4441866/VHDL-Coding-styles)
-
-* [Verilog Coding Standard](http://fpgacpu.ca/fpga/verilog.html)
-
 * [Time-borrowing in programmable UltraScale+ leaf clock buffers boosts Fmax 5.5% on average, perhaps by >> 10%](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Time-borrowing-in-programmable-UltraScale-leaf-clock-buffers/ba-p/732007)
 
-* [Fixed Point Numbers in Verilog](https://timetoexplore.net/blog/fixed-point-numbers-in-verilog)
-
 * [FPGA Resources at GateForge Consulting Ltd.](http://fpgacpu.ca/fpga/)
-
-* [Designing A Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html)
 
 * [Controlling Timing within an FPGA](http://zipcpu.com/blog/2017/06/02/generating-timing.html)
 
@@ -83,12 +89,6 @@ location: "Istanbul, Turkiye"
 * [How Do I Reset My FPGA?](http://abdullahyildiz.github.io/files/xcell_article_2.pdf)
 
 * [How to Build a Self-Checking Testbench](http://abdullahyildiz.github.io/files/xcell_article_4.pdf)
-
-* [Arbiters: Design Ideas and Coding Styles](http://abdullahyildiz.github.io/files/Arbiters-Design_Ideas_and_Coding_Styles.pdf)
-
-* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
-
-* [Taking a New Look at Verilator](http://zipcpu.com/blog/2017/06/21/looking-at-verilator.html)
 
 <hr>
 

@@ -22,4 +22,6 @@ location: "Istanbul, Turkiye"
 
 [CPU History Museum for Intel CPUs, AMD Processor, Cyrix Microprocessors, Microcontrollers and more.](http://www.cpushack.com/)
 
+[From Nand to Tetris: Building a Modern Computer From First Principles](https://www.nand2tetris.org/)
+
 <!-- [Project Nayuki](https://www.nayuki.io/) -->

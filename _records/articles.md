@@ -28,6 +28,8 @@ location: "Istanbul, Turkiye"
 
 * [RISC instruction sets I have known and disliked](https://www.jwhitham.org/2016/02/risc-instruction-sets-i-have-known-and.html)
 
+* [Digital FOSSils: A History of Free and Open Source Silicon](https://abopen.com/news/digital-fossils-a-history-of-free-and-open-source-silicon/)
+
 <hr>
 
 <span style="color:#1a75ff"> *Articles on Digital Design* </span>

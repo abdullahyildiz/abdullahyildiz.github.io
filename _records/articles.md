@@ -8,6 +8,8 @@ date: 2018-12-23
 location: "Istanbul, Turkiye"
 ---
 
+* [Mead & Conway revolution](https://en.wikipedia.org/wiki/Mead_%26_Conway_revolution)
+
 * [FPGA vs CPU vs GPU vs Microcontroller: How Do They Fit into the Processing Jigsaw Puzzle?](https://www.arrow.com/en/research-and-events/articles/fpga-vs-cpu-vs-gpu-vs-microcontroller)
 
 * [Microprocessor Evaluation (1971-1996)](http://abdullahyildiz.github.io/files/Microprocessor_Evolution_Poster.jpg)

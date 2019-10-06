@@ -14,7 +14,7 @@ redirect_from:
 
 I'm currently part of Design and Verification Engineering Team at Yonga Technology Microelectronics.
 
-<a href="https://www.yongatek.com/" target="_blank"><img src="images/yongatek.jpg" width="200" height="56" alt="YONGATEK"></a>
+<a href="https://www.yongatek.com/" target="_blank"><img src="images/yongatek.jpg" width="100" height="100" alt="YONGATEK"></a>
 
 <hr>
 

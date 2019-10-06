@@ -11,6 +11,11 @@ redirect_from:
 <!-- <span style="color:#008040"> *Welcome to my website!* </span> -->
 
 <!-- ![RESysLab](images/resyslab.png "RESysLab") -->
+
+<a href="https://www.yongatek.com/" target="_blank">I'm currently part of Design and Verification Engineering Team at Yonga Technology Microelectronics</a>
+
+<hr>
+
 Research Group
 
 <!-- <a href="http://resyslab.org/" target="_blank"><img src="images/resyslab.png" width="200" height="56" alt="RESysLab"></a> -->

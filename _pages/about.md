@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- ![RESysLab](images/resyslab.png "RESysLab") -->
 
-I'm currently part of Design and Verification Engineering Team at Yonga Technology Microelectronics.
+I'm currently part of Design and Verification Engineering Team at Yonga Technology Microelectronics R&D.
 
 <a href="https://www.yongatek.com/" target="_blank"><img src="images/yongatek.jpg" width="100" height="100" alt="YONGATEK"></a>
 

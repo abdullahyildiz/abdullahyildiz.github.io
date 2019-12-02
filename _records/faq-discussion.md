@@ -22,6 +22,10 @@ location: "Istanbul, Turkiye"
 
 <span style="color:#1a75ff"> *Posts on Digital Design* </span>
 
+* [Is designing digital logics in a FPGA a hardware work or software work?](https://forums.xilinx.com/t5/Welcome-Join/Is-designing-digital-logics-in-a-FPGA-a-hardware-work-or/td-p/1049034)
+
+* [Any circuit that can be described in VHDL/Verilog can be also described using HLS?](https://forums.xilinx.com/t5/High-Level-Synthesis-HLS/Any-circuit-that-can-be-described-in-VHDL-Verilog-can-be-also/td-p/1049633)
+
 * [What's ARM TCM memory](https://stackoverflow.com/questions/30797106/whats-arm-tcm-memory)
 
 * [What is bit-banding?](https://electronics.stackexchange.com/questions/27550/what-is-bit-banding)

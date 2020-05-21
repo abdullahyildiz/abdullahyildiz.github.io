@@ -116,6 +116,10 @@ location: "Istanbul, Turkiye"
 
 * [EMBED WITH ELLIOT: THE STATIC KEYWORD YOU DON’T FULLY UNDERSTAND](https://hackaday.com/2015/08/04/embed-with-elliot-the-static-keyword-you-dont-fully-understand/)
 
+* [5 Tips for Designing a Smart Watchdog](https://www.beningo.com/5-tips-for-designing-a-smart-watchdog/)
+
+* [7 Steps to Create a Stack Monitor](https://www.beningo.com/7-steps-to-create-a-stack-monitor/)
+
 * [Linked List Problems](http://abdullahyildiz.github.io/files/LinkedListProblems.pdf)
 
 * [Step-by-Step into Argp](http://abdullahyildiz.github.io/files/step-by-step-into-argp.pdf)

@@ -1,5 +1,5 @@
 ---
-title: "Dua - Arif Nihat Asya"
+title: "Dua (Arif Nihat Asya)"
 collection: offtopic
 type: 
 permalink: /offtopic/dua-arif-nihat-asya

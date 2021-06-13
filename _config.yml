@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abdullah YILDIZ"
 title_separator          : "-"
 name                     : &name "Abdullah YILDIZ"
-description              : &description "Design and Verification Engineering Team Member at Yonga Technology Microelectronics R&D GmbH & Team Member at RESysLab"
+description              : &description "Design and Verification Engineering Team Member at Yonga Technology Microelectronics R&D & Team Member at RESysLab"
 url                      : https://abdullahyildiz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdullahyildiz.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Abdullah YILDIZ"
   avatar           : "profile.png"
-  bio              : "Design and Verification Engineering Team Member at Yonga Technology Microelectronics R&D GmbH & Team Member at RESysLab"
+  bio              : "Design and Verification Engineering Team Member at Yonga Technology Microelectronics R&D & Team Member at RESysLab"
   location         : "Istanbul"
   employer         :
   googlescholar    : 

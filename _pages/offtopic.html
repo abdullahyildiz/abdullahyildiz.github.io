@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /offtopic/
+title: "Off-Topic"
+author_profile: true
+redirect_from:
+  - /wordpress/offtopic/
+---
+
+{% include base_path %}
+
+{% for post in site.offtopic reversed %}
+  {% include archive-single.html %}
+{% endfor %}

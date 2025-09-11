@@ -42,7 +42,7 @@ location: "Istanbul, Turkiye"
 
 * [Understanding the Basics of Setup and Hold Time](http://abdullahyildiz.github.io/files/Understanding-the-basics-of-setup-and-hold-time.pdf)
 
-* [ASAP and ALAP scheduling](http://abdullahyildiz.github.io/files/asap_alap.pdf)
+* [ASAP and ALAP scheduling by George A. Constantinides, Imperial College](http://abdullahyildiz.github.io/files/asap_alap.pdf)
 
 * [Cliff Cummings' Award-Winning Verilog & SystemVerilog Papers](http://www.sunburst-design.com/papers/)
 

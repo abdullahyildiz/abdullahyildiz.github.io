@@ -56,8 +56,6 @@ location: "Istanbul, Turkiye"
 
 * [Verilog Coding Standard](http://fpgacpu.ca/fpga/verilog.html)
 
-* [Chisel Learning Journey](https://github.com/Intensivate/learning-journey)
-
 * [Fixed Point Numbers in Verilog](https://timetoexplore.net/blog/fixed-point-numbers-in-verilog)
 
 * [Designing A Skid Buffer](http://fpgacpu.ca/fpga/skid_buffer.html)
@@ -66,21 +64,11 @@ location: "Istanbul, Turkiye"
 
 <span style="color:#1a75ff"> *Articles on Programmable Logic* </span>
 
-* [Beginner’s Guide to Understanding FPGA Development](https://www.eeweb.com/profile/gina-smith/articles/beginners-guide-to-understanding-fpga-development)
-
 * [Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology](http://abdullahyildiz.github.io/files/07086413.pdf)
 
 * [FPGAs vs ASICs](http://zipcpu.com/blog/2017/10/13/fpga-v-asic.html)
 
 * [Creating Embedded Microcontrollers (Programmable State Machines)](http://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)
-
-* [10 FPGA Design Techniques You Should Know](https://www.eetimes.com/document.asp?doc_id=1330128)
-
-* [10 Techniques for Creating Reliable FPGA Designs](https://www.eetimes.com/document.asp?doc_id=1330399#)
-
-* [How to Implement State Machines in Your FPGA](https://www.rs-online.com/designspark/how-to-implement-state-machines-in-your-fpga)
-
-* [Time-borrowing in programmable UltraScale+ leaf clock buffers boosts Fmax 5.5% on average, perhaps by >> 10%](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Time-borrowing-in-programmable-UltraScale-leaf-clock-buffers/ba-p/732007)
 
 * [FPGA Resources at GateForge Consulting Ltd.](http://fpgacpu.ca/fpga/)
 
@@ -94,15 +82,11 @@ location: "Istanbul, Turkiye"
 
 * [How to Build a Self-Checking Testbench](http://abdullahyildiz.github.io/files/xcell_article_4.pdf)
 
-* [TPM2137: RE challenge for WCTF2019, showcasing entry level FPGA bitstream reverse engineering](https://github.com/q3k/TPM2137)
-
 <hr>
 
 <span style="color:#1a75ff"> *Articles on Embedded Systems, Operating Systems, and Programming* </span>
 
 * [Baking Pi - Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
-
-* [OSDev.org](http://wiki.osdev.org)
 
 * [Behind the process](http://www.bottomupcs.com/chapter07.xhtml)
 
@@ -114,8 +98,6 @@ location: "Istanbul, Turkiye"
 
 * [How to Use C's volatile Keyword](https://barrgroup.com/Embedded-Systems/How-To/C-Volatile-Keyword)
 
-* [EMBED WITH ELLIOT: THE VOLATILE KEYWORD](https://hackaday.com/2015/08/18/embed-with-elliot-the-volatile-keyword/)
-
 * [EMBED WITH ELLIOT: THE STATIC KEYWORD YOU DON’T FULLY UNDERSTAND](https://hackaday.com/2015/08/04/embed-with-elliot-the-static-keyword-you-dont-fully-understand/)
 
 * [5 Tips for Designing a Smart Watchdog](https://www.beningo.com/5-tips-for-designing-a-smart-watchdog/)
@@ -123,5 +105,3 @@ location: "Istanbul, Turkiye"
 * [7 Steps to Create a Stack Monitor](https://www.beningo.com/7-steps-to-create-a-stack-monitor/)
 
 * [Linked List Problems](http://abdullahyildiz.github.io/files/LinkedListProblems.pdf)
-
-* [Step-by-Step into Argp](http://abdullahyildiz.github.io/files/step-by-step-into-argp.pdf)
